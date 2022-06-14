@@ -1,0 +1,14 @@
+{
+  "name": "oppgave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oppgave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node oppgave.js"
+  },
+  "type": "module",
+  "author": "Irina Morozova",
+  "license": "ISC",
+  "dependencies": {}
+}
